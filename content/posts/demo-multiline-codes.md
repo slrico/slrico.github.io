@@ -1,14 +1,11 @@
-+++
-author = "Junyi"
-title = "Demo - Multiline Codes"
-date = "2024-04-23"
-description = "Codes, Codefences, and Syntax Highlighting."
-tags = [
-    "icons",
-    "anubis2",
-    "hugo"
-]
-+++
+---
+title: "Demo - Multiline Codes"
+date: 2024-04-25T1:54:12+08:00
+description: "Codes, Codefences, and Syntax Highlighting."
+draft: true
+hidden: true
+tags: [Hugo]
+---
 
 ```c {linenos=table, hl_lines=[1,"3-4",8], linenostart=199}
 int main() {
