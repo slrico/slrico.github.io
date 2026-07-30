@@ -1,1 +1,1 @@
-# slrico.github.io
+# use a simple landmark page 
