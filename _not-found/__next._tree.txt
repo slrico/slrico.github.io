@@ -1,2 +1,0 @@
-:HL["/slrico.github.io/_next/static/chunks/28okmnl0hpo5v.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Rp9k7PxDnTvv_xU0vb7Ju"}
